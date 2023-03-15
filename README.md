@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suriair
-- 👀 I’m interested in phython and android app development.
-- 🌱 I’m currently learning phython and java.
-- 💞️ I’m looking to collaborate on phython error/bug fixing.
+- 👀 I’m interested in machine learning, data science and AI.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on python projects .
 - 📫 you can contact me at suriairara@hotmail.com.
 
 <!---
