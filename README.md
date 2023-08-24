@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suriair
+- 👋 Hi, I’m surendar singh
 - 👀 I’m interested in machine learning, data science and AI.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python projects .
