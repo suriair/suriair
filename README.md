@@ -1,7 +1,7 @@
 - 👋 Hi, I’m surendar singh
 - 👀 I’m interested in machine learning, data science and AI.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects .
+- 🌱 I’m Python Developer and Machine Learning Engineer.
+- 💞️ I’m looking to collaborate on python and machine learning projects.
 - 📫 you can contact me at suriairara@hotmail.com.
 
 <!---
